@@ -1,5 +1,5 @@
 # valeria-giraldi-advogada
-<!DOCTYPE html>
+
 <html lang="pt-BR">
 <head>
     <div class="logo">VALÉRIA GIRALDI</div>
